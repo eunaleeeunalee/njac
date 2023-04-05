@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/njac/static/js/main.e4395ad9.js",
+    "main.js": "/njac/static/js/main.df1f588a.js",
     "static/media/title2.png": "/njac/static/media/title2.5f836f011941e7f063a5.png",
     "index.html": "/njac/index.html",
-    "main.e4395ad9.js.map": "/njac/static/js/main.e4395ad9.js.map"
+    "main.df1f588a.js.map": "/njac/static/js/main.df1f588a.js.map"
   },
   "entrypoints": [
-    "static/js/main.e4395ad9.js"
+    "static/js/main.df1f588a.js"
   ]
 }
