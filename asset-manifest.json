@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/njac/static/js/main.df1f588a.js",
-    "static/media/title2.png": "/njac/static/media/title2.5f836f011941e7f063a5.png",
-    "index.html": "/njac/index.html",
-    "main.df1f588a.js.map": "/njac/static/js/main.df1f588a.js.map"
+    "main.js": "/static/js/main.f6c3307b.js",
+    "static/media/title2.png": "/static/media/title2.5f836f011941e7f063a5.png",
+    "index.html": "/index.html",
+    "main.f6c3307b.js.map": "/static/js/main.f6c3307b.js.map"
   },
   "entrypoints": [
-    "static/js/main.df1f588a.js"
+    "static/js/main.f6c3307b.js"
   ]
 }
